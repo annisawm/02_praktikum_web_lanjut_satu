@@ -8,6 +8,6 @@ class HomeController extends Controller
 {
     Public function index ()
     {
-        echo "Selamat Datang";
+        echo "<center><h1>Welcome To Ann's X Edu Company Profile!</h1>";
     }
 }
